@@ -10,13 +10,13 @@ The initial analysis for this project focused on Vine reviews for digital video 
 
 
 
-![](C:\Users\carla\OneDrive\Documents\GitHub\amazon_vine_analysis\images\image-20220417140204745.png)
+![](https://raw.githubusercontent.com/CarlS2rt/amazon_vine_analysis/main/images/image-20220417140204745.png)
 
 Since the initial data contained no Vine reviews to analyze inherent bias, another product category was chosen to complete the analysis. The final analysis focused on Amazon reviews for all video games, which most likely contains only physical copies of games. 
 
 The final analysis of Amazon video game reviews yielded over 40,000 reviews all together. Of those reviews, only 94 were paid Vine reviews. The complete results of the analysis are below:
 
-![](C:\Users\carla\OneDrive\Documents\GitHub\amazon_vine_analysis\images\image-20220417135848835.png)
+![](https://raw.githubusercontent.com/CarlS2rt/amazon_vine_analysis/main/images/image-20220417135848835.png)
 
 The total percentage of 5-star reviews was 38.7%, and the percentage of 5-star unpaid reviews was the same. The overall 5-star percentage for Vine reviews was significantly higher at 51%.
 
